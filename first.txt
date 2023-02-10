@@ -3,3 +3,5 @@ Hello GIT
 Good morning
 
 todays is a friday
+
+its a 3rd lect
